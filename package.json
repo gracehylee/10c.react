@@ -1,7 +1,7 @@
 {
   "name": "cps530-lab10",
   "version": "0.1.0",
-  "homepage": "https://gracehylee.github.io/10c",
+  "homepage": "https://gracehylee.github.io/10c.react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
